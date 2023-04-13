@@ -1,0 +1,12 @@
+{
+  "name": "metadatatutility",
+  "version": "1.0.0",
+  "description": "This basic script adds an \"edition\" key & value pair for each object (individual NFT metadata) and increment the value.",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ahsan Khan",
+  "license": "MIT"
+}
